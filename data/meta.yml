@@ -18,23 +18,23 @@ number: '01'
 repo: hrtech2026/team-hiring-01
 members:
   - login: gavrilov-tula
-    name: ''
-    role: analyst
+    name: 'Гаврилов Евгений'
+    role: data_researcher
   - login: KseniaAleshchenko14042000
-    name: ''
-    role: architect
+    name: 'Алещенко Ксения'
+    role: analyst
   - login: kf4458136-ctrl
-    name: ''
+    name: 'Фомин Кирилл'
     role: captain
   - login: Sofa-AE
-    name: ''
+    name: 'Евланова Софа'
     role: requirements
   - login: nyurochkashd
-    name: ''
-    role: data_researcher
+    name: 'Исакова Анна'
+    role: architect
 stakeholders: []
 concept: AI Job Reality Check - ИИ-помощник, который анализирует драфт вакансии, выявляет противоречия
   и несоответствия, проводит уточняющие интервью и помогает сформировать готовую к публикации вакансию.
-stage: to_be
+stage: 04_requirements
 created_at: '2026-10-04'
 internal_notes: ''
