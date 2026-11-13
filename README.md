@@ -3,7 +3,7 @@
 **Трек:** Найм
 **Группа:** 01
 **Репозиторий:** [team-hiring-01](https://github.com/hrtech2026/team-hiring-01)
-**Текущий этап:** 01_Идея
+**Текущий этап:** 04_Формализация_ТЗ
 
 ## Концепт
 
@@ -23,9 +23,9 @@
 
 | Документ | Этап | Ответственный | Состояние |
 |---|---|---|---|
-| [`docs/01_problem.md`](docs/01_problem.md) | Проблематизация | Аналитик | в работе |
-| [`docs/02_asis_analysis.md`](docs/02_asis_analysis.md) | AS-IS | Аналитик | в работе |
-| [`docs/03_tobe_architecture.md`](docs/03_tobe_architecture.md) | TO-BE и HITL | Архитектор | в работе |
+| [`docs/01_problem.md`](docs/01_problem.md) | Проблематизация | Аналитик | Заполнен |
+| [`docs/02_asis_analysis.md`](docs/02_asis_analysis.md) | AS-IS | Аналитик | Заполнен |
+| [`docs/03_tobe_architecture.md`](docs/03_tobe_architecture.md) | TO-BE и HITL | Архитектор | Заполнен |
 | [`docs/04_requirements.md`](docs/04_requirements.md) | Требования | Требования | в работе |
 | [`docs/05_glossary.md`](docs/05_glossary.md) | вспомогательное | любой | по желанию |
 
